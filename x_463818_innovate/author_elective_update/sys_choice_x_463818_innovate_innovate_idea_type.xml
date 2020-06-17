@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="idea_type" table="x_463818_innovate_innovate" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cost Savings</label>
+            <language>en</language>
+            <name>x_463818_innovate_innovate</name>
+            <sequence/>
+            <sys_created_by>Clarismilton</sys_created_by>
+            <sys_created_on>2020-06-17 16:36:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bae0185cdb611010367fb080399619f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clarismilton</sys_updated_by>
+            <sys_updated_on>2020-06-17 16:36:11</sys_updated_on>
+            <value>cost</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>idea_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Team Building</label>
+            <language>en</language>
+            <name>x_463818_innovate_innovate</name>
+            <sequence/>
+            <sys_created_by>Clarismilton</sys_created_by>
+            <sys_created_on>2020-06-17 16:36:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6e0185cdb611010367fb080399619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>Clarismilton</sys_updated_by>
+            <sys_updated_on>2020-06-17 16:36:11</sys_updated_on>
+            <value>team</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>idea_type</element>
+            <name>x_463818_innovate_innovate</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>Clarismilton</sys_created_by>
+            <sys_created_on>2020-06-17 16:36:11</sys_created_on>
+            <sys_id>f6e0185cdb611010367fb080399619f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>idea_type</sys_name>
+            <sys_package display_value="Innovate" source="x_463818_innovate">612ec410db211010367fb080399619ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">612ec410db211010367fb080399619ea</sys_scope>
+            <sys_update_name>sys_choice_x_463818_innovate_innovate_idea_type</sys_update_name>
+            <sys_updated_by>Clarismilton</sys_updated_by>
+            <sys_updated_on>2020-06-17 16:36:11</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

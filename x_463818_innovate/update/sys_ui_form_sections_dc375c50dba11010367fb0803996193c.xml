@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="dc375c50dba11010367fb0803996193c" sys_domain="global" table="x_463818_innovate_innovate" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>Clarismilton</sys_created_by>
+            <sys_created_on>2020-06-17 17:03:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5c375c50dba11010367fb0803996193f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_463818_innovate_innovate" name="x_463818_innovate_innovate" sys_domain="global" view="Default view">dc375c50dba11010367fb0803996193c</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_463818_innovate_innovate" sys_domain="global" view="Default view">a4b2185cdb611010367fb080399619a7</sys_ui_section>
+            <sys_updated_by>Clarismilton</sys_updated_by>
+            <sys_updated_on>2020-06-17 17:03:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>Clarismilton</sys_created_by>
+            <sys_created_on>2020-06-17 17:07:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4a289490dba11010367fb0803996195f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_463818_innovate_innovate" name="x_463818_innovate_innovate" sys_domain="global" view="Default view">dc375c50dba11010367fb0803996193c</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_463818_innovate_innovate" sys_domain="global" view="Default view">ca289490dba11010367fb0803996195c</sys_ui_section>
+            <sys_updated_by>Clarismilton</sys_updated_by>
+            <sys_updated_on>2020-06-17 17:09:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>Clarismilton</sys_created_by>
+            <sys_created_on>2020-06-17 17:03:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>58375c50dba11010367fb08039961940</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_463818_innovate_innovate" name="x_463818_innovate_innovate" sys_domain="global" view="Default view">dc375c50dba11010367fb0803996193c</sys_ui_form>
+            <sys_ui_section caption="Data Info" display_value="Data Info" name="x_463818_innovate_innovate" sys_domain="global" view="Default view">9c375c50dba11010367fb0803996193b</sys_ui_section>
+            <sys_updated_by>Clarismilton</sys_updated_by>
+            <sys_updated_on>2020-06-17 17:09:36</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_463818_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>Clarismilton</sys_created_by>
+            <sys_created_on>2020-06-17 17:03:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dc375c50dba11010367fb0803996193c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_463818_innovate_innovate</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_463818_innovate">612ec410db211010367fb080399619ea</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">612ec410db211010367fb080399619ea</sys_scope>
+            <sys_update_name>sys_ui_form_sections_dc375c50dba11010367fb0803996193c</sys_update_name>
+            <sys_updated_by>Clarismilton</sys_updated_by>
+            <sys_updated_on>2020-06-17 17:03:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
